@@ -13,6 +13,11 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "xWorld Roleplay - Ultimate FiveM Experience",
   description: "Experience the ultimate roleplay adventure in our immersive xWorld Roleplay FiveM server.",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
     generator: 'v0.app'
 }
 
